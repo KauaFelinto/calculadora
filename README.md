@@ -1,5 +1,4 @@
 
-# Calculadora teste
+# Calculadora js
 
-Um breve projeto para testar conhecimentos em JavaScipt
-
+Calculadora feita com HTML, CSS e Javascript. Com a intenção de testar meus conhecimentos atuais em Js
